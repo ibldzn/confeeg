@@ -1,0 +1,65 @@
+alacritty                   # a cross-platform, gpu-accelerated terminal emulator
+aria2                       # download utility that supports http(s), ftp, bittorrent, and metalink
+bat                         # cat clone with syntax highlighting and git integration
+bluez                       # daemons for the bluetooth protocol stack
+bluez-utils                 # development and debugging utilities for the bluetooth protocol stack
+brightnessctl               # lightweight brightness control tool
+clang                       # c language family frontend for llvm
+cmake                       # a cross-platform open-source make system
+docker                      # pack, ship and run any application as a lightweight container
+docker-buildx               # docker cli plugin for extended build capabilities with buildkit
+docker-compose              # fast, isolated development environments using docker
+extra-cmake-modules         # extra modules and scripts for cmake
+eza                         # a modern replacement for ls (community fork of exa)
+fd                          # simple, fast and user-friendly alternative to find
+fzf                         # command-line fuzzy finder
+git                         # the fast distributed version control system
+gnome-keyring               # stores passwords and encryption keys
+go                          # core compiler tools for the go programming language
+grim                        # screenshot utility for wayland
+hyprland                    # a highly customizable dynamic tiling wayland compositor
+hyprpaper                   # a blazing fast wayland wallpaper utility with ipc controls
+jq                          # command-line json processor
+lazygit                     # simple terminal ui for git commands
+libqalculate                # multi-purpose desktop calculator
+man-db                      # a utility for reading man pages
+man-pages                   # linux man pages
+neovim-git                  # fork of vim aiming to improve user experience, plugins, and guis
+nodejs                      # evented i/o for v8 javascript
+noto-fonts                  # google noto ttf fonts
+noto-fonts-cjk              # google noto cjk fonts
+noto-fonts-emoji            # google noto emoji fonts
+noto-fonts-extra            # google noto ttf fonts - additional variants
+npm                         # javascript package manager
+ntfs-3g                     # ntfs filesystem driver and utilities
+pavucontrol                 # pulseaudio volume control
+pipewire                    # low-latency audio/video router and processor
+pipewire-alsa               # low-latency audio/video router and processor - alsa configuration
+pipewire-jack               # low-latency audio/video router and processor - jack replacement
+pipewire-pulse              # low-latency audio/video router and processor - pulseaudio replacement
+prettier                    # an opinionated code formatter
+python                      # the python programming language
+qbittorrent                 # an advanced bittorrent client programmed in c++, based on qt toolkit and libtorrent-rasterbar
+qt5-wayland                 # provides apis for wayland
+qt5ct                       # qt5 configuration utility
+qt6-wayland                 # provides apis for wayland
+ripgrep                     # a search tool that combines the usability of ag with the raw speed of grep
+rustup                      # the rust toolchain installer
+samba                       # smb fileserver and ad domain server
+slurp                       # select a region in a wayland compositor
+starship                    # the cross-shell prompt for astronauts
+tlp                         # linux advanced power management
+tmux                        # terminal multiplexer
+ttf-jetbrains-mono-nerd     # patched font jetbrains mono from nerd fonts library
+visual-studio-code-bin      # visual studio code (vscode): editor for building and debugging modern web and cloud applications (official binary version)
+wine                        # a compatibility layer for running windows programs
+wine-mono                   # wine's built-in replacement for microsoft's .net framework
+wl-clipboard                # command-line copy/paste utilities for wayland
+xdg-desktop-portal-hyprland # xdg-desktop-portal backend for hyprland
+xorg-xwayland               # run x clients under wayland
+yarn                        # fast, reliable, and secure dependency management
+zoxide                      # a smarter cd command for your terminal
+zsh                         # a very advanced and programmable command interpreter (shell) for unix
+zsh-autosuggestions         # fish-like autosuggestions for zsh
+zsh-completions-git         # additional completion definitions for zsh
+zsh-syntax-highlighting     # fish shell like syntax highlighting for zsh

@@ -1,0 +1,629 @@
+reboot
+exec Hyprland
+firefox & disown
+tmux a
+cd dot/config
+clear
+ls
+mkdir alacritty
+cd alacritty
+clear
+tmux
+cd .config/alacritty
+clear
+vim alacritty.yaml
+mv alacritty.yaml alacritty.yml
+clear
+alacritty migrate
+cd .config/alacritty
+clear
+ls
+vim alacritty.toml
+rm alacritty.yml
+clear
+v alacritty.yaml
+nvim alacritty.yaml
+pcp
+cp -R ~/olddot/config/fontconfig .
+clear
+ls
+mv fontconfig ..
+clear
+cd ..
+clear
+ls
+cd fontconfig
+cear
+clear
+vim fonts.conf
+ln -s $(realpath .) ~/.config
+cear
+clear
+cd ../alacritty
+clear
+ls
+nvim alacritty.yaml
+ln -s $(realpath .) ~/.config
+vim alacritty.toml
+clear
+vim alacritty.toml
+cd .config/alacritty
+vim alacritty.toml
+tmux a
+cd
+cd olddot/config/alacritty
+clear
+v alacritty.yml
+vim alacritty.yml
+clear
+cd ..
+..
+cd ..
+clear
+cd bin
+clear
+/tmp
+cd /tmp
+v main.py
+touch main.go
+rm main.go
+touch main.py
+rm main.py
+alacritty -v
+alacritty -vv
+alacritty -vvv
+starship preset nerd-font-symbols -o ~/.config/starship.toml
+cd
+cd .config
+v starship.toml
+vim starship.toml
+cd /tmp
+touch main.py
+tmux a
+cd .config
+mkdir starship
+mv starship.toml starship
+cd starship
+clear
+ls
+cat starship.toml
+touch main.py
+rm main.py
+touch main.zig
+rm main.zig
+touch main.rs
+rm main.rs
+gpgconf --list-dirs agent-ssh-socket
+clear
+touch $HISTFILE
+cd
+cd dot/config/tmux
+clear
+ls
+mkdir plugins
+echo plugins > .gitignore
+git clone https://github.com/tmux-plugins/tpm plugins
+cd plugins
+ls
+cd ..
+mv plugins tpm
+mkdir plugins
+mv tpm plugins
+clear
+cd
+cd dot
+cd config
+mkdir tmux
+cd tmux
+clear
+ls
+nvim tmux.conf
+cd
+cd olddot
+cd config/tmux
+clear
+nvim tmux.conf
+ls
+cd config
+ls
+ln -s $(realpath tmux) ~/.config
+tmux
+ls
+ls -al
+cat /sys/class/power_supply/BAT1/capacity
+/tmp
+cd /tmp
+git clone https://github.com/dreamsofcode-io/dotfiles
+cd dotfiles
+clear
+vf
+ls
+nvim .zshrc
+tmux a
+tmux
+cd
+cd dot
+tmux
+tmux
+tmux
+tmux
+tmux
+exec Hyprland
+reboot
+/tmp
+cd /tmp
+git clone --depth 1 https://github.com/rvaiya/keyd
+cd keyd
+grep -Rni xdg_config_home
+grep -Rni "xdg"
+grep -Rni "default.conf"
+nvim src/config.c
+grep -Rni "default\.conf"
+grep -Rni "/etc/keyd"
+yay -S ripgrep
+rg -pnij5 default
+rg -pnij5 xdg_config
+rg -pnij5 xdg
+rg -pnij5 \.keyd
+rg -pnij5 default\.conf
+rg -pnij5 default\.conf"\
+"
+rg -pnij5 deafult\.conf
+rg -pnij5 "/etc/keyd"
+pacman -Qkl keyd
+rg -pnj5 CONFIG_DIR
+cd /etc/keyd
+ls
+wl-paste
+wl-paste | sudo tee default.conf
+sudo systemctl enable --now keyd
+v
+vim
+cd
+cd .config/tmux/
+clear
+nvim 
+yay -S keyd
+echo $EDITOR
+cd config
+clear
+ls
+cd alacritty
+clear
+ls
+mkdir colors
+cd colors
+nmtui
+sudoedit 
+ping -c 3 8.8.8.8
+ping ::1
+clear
+cat /sys/class/power_supply/BAT1/capacity
+nmtui
+ping google.com
+nmtui
+ping google.com
+nslookup
+yay -S nwg-display
+reboot
+exec Hyprland
+firefox & disown
+tmux
+tmux set @tokyo-night-tmux_window_id_style digital\
+tmux set @tokyo-night-tmux_pane_id_style hsquare\
+tmux set @tokyo-night-tmux_zoom_id_style dsquare
+cd .config/tmux
+ls
+nvim tmux.conf
+tmux 
+tmux
+tmux
+cd .config/tmux
+nvim tmux.conf
+shutdown now
+reboot
+exec Hyprland
+nmtui
+firefox & disown
+reboot
+reboot
+ exec Hyprland
+firefox
+fg
+disown
+kill -CONT -866
+env
+env
+sleep 3
+/tmp
+cd /tmp/tmp.Cq5WVbccLk
+ls
+touch main.py
+kladsjfjlj
+cat /sys/class/power_supply/BAT1/capacity
+sleep 3
+cd dot/
+nvim pkgs
+tmux a
+tmux
+cd 
+cd olddot
+nvim p
+nvim pkgs
+cd
+cd .config/starship
+nvim starship.toml
+nvim starship.toml
+cd
+cd dot
+nvim pkgs
+cat pkgs | yay -S --needed -
+nvim pkgs
+yay -Si eza
+nvim pkgs
+cat pkgs | yay -S --needed -
+echo
+echo
+cd config
+ll
+eza
+yay -S eza
+yay -S eza
+yay -Scc
+yay -S eza
+yay -S eza
+neofetch
+yay -S neofetch
+neofe
+neofetch
+sudo su
+1
+/tmp
+cd /tmp
+touch main.py
+sleep 2
+rm main.py
+cd /etc
+echo -n hi
+return 1
+
+ssh cangs@127.0.0.1
+sudo pacman -S openssh
+sudo systemctl enable --now ssh
+sudo systemctl enable --now openssh
+sudo systemctl enable --now sshd
+ssh cangs@127.0.0.1
+ssh cangs@127.0.0.1
+sleep 3
+sleep 3
+cd /tmp
+tmp
+mktemp -d
+cd /tmp/tm
+cd /tmp/tmp.Cq5WVbccLk
+touch main.cpp
+mv main.cpp main.c
+ssh cangs@127.0.0.1
+ssh cangs@127.0.0.1
+ssh cangs@127.0.0.1
+ssh cangs@127.0.0.1
+sleep 2
+jalsdkfjalsdkfjlkasdjfklasjdfkljasdklfjaskdlfjaklsdjfklasdjfklajsdfkljsadlkfjaskdlfjlkasdjflkasdjfkldjsfkljsadflkjsadklfjsadklfjkalsdjfklasdjfkajsdflkasjdfklajsf
+asjdkllllllasdjlkasd
+asjlkdd
+sleep 3
+askldjkas
+asdljslkdasd
+sleep 2
+ssh cangs@127.0.0.1
+sleep 3
+sleep 3
+sleep 3
+cd
+cd .config
+cd starship
+nvim starship.toml
+\
+	b
+echo -n
+echo -n 123
+nmtui
+nmtui
+nmtui
+sudo systemctl restart NetworkManager
+nmtui
+nmtui
+$(head -1 ~/olddot/pkgs)
+$(head -1 ~/olddot/pkgs | cut -d' ' -f1-)
+$(head -1 ~/olddot/pkgs | cut -d' ' -f2-)
+cat pkgs | yay -S --needed -
+sleep 1
+sleep 3
+cd config
+ls
+cd
+cd olddot/bin
+ll
+ls
+./validatemirror
+yay -Syu
+reboot
+exec Hyprland
+firefox & diswon
+disown
+cd ../..
+nvim pkgs
+nvim pkgs
+cat pkgs | yay -S --needed -
+cat pkgs | yay -S --needed -
+cd
+cd dot/config/zsh
+source .zshrc
+pacman -Qi zsh-autosuggestions
+pacman -Qi zsh-autosuggestions
+source .zshrc
+source .zshrc
+source .zshrc
+cat 
+cd 
+cd dot
+cd config
+ls -lah
+yay -S eza
+exa
+ls -lah
+ls -lah
+exa -lah
+cd zsh
+nvim .zsh
+nvim .zshrc
+cd ../..
+nvim pkgs
+cd config/zsh
+nvim .zshrc
+tmux a
+cd olddot
+tmux
+cd olddot
+cat /sys/class/power_supply/BAT1/capacity
+tmux a
+tmuxhere
+nmtui
+nmtui
+sudo systemctl restart NetworkManager
+nmtui
+nmtui
+reboot
+exec Hyprland
+nmtui
+nmtui
+pacman -Ss oracle
+yay -Ss oracle
+yss oracle-xe
+firefox & diswon
+fg
+ys oracle-xe-11g
+junk
+yeet $(junk)
+firefox & disown
+reboot
+exec Hyprland
+firefox & disown
+rced
+tty
+rced
+echo $TTY
+echo $TTY && tty
+mkdir -p $GNUPGHOME
+rced
+rcede
+rced
+cd dot
+tmux
+cd config/zsh
+.. 2
+nvim pkgs
+nv 
+sudo pacman -Fy
+cat pkgs | yay -S --needed -
+cdi
+nvim pkgs
+cat pkgs | yay -S --needed -
+vf
+nvim pkgs
+cat pkgs | yay -S --needed -
+vf
+ll
+ll -T
+exa --help
+ll -T --git-ignore
+ll
+cd config
+ll
+rced
+cdi
+which cd
+rced
+cdi
+cd
+cd dot/config
+cdi
+cd
+cd olddot/config
+cdi
+cd /etc
+cd pacman.d/hooks
+ll
+dirdiff . ~/olddot/etc/pacman.d/hooks
+ysi delta
+delta
+sudo pacman -S git-delta
+dirdiff . ~/olddot/etc/pacman.d/hooks
+dirdiff . ~/olddot/etc/pacman.d/hooks
+ll
+cd 
+cdi
+zoxide init
+zoxide init zsh
+zoxide --help
+yay -Syu
+yay -Syu
+sudo systemctl restart NetworkManager
+yay -Syu
+yay -Syu
+yay -Syu
+reboot
+cd olddot
+cd
+cd ok
+cd olddot
+vf
+sudo pacman -S fd
+pacman -Si fd
+sudo pacman -S fd
+cd etc/
+ll -T
+bat install
+cd pacman.d/hooks
+ll
+sudo cp stop-wine-associations.hook zsh.hook /etc/pacman.d/hooks
+exec Hyprland
+firefox & disown
+firefox & disown
+pacman -Qq
+delta <(pacman -Qq) pkgs
+cd
+cd olddot
+ll
+cd config
+ll
+pacman -Si grim slurp
+cd .config
+cd 
+cd .config
+ll
+cd .config
+ll
+ll -T go
+ll
+qalc
+tmux a
+cd dot
+builtin cd -- /home/cangs/dot/config/tmux/plugins/tpm/bindings
+cdi
+cd
+cd dot
+tmuxhere
+exec Hyprland
+\:q
+cd .config
+ll
+cd hypr
+ll
+pwd
+firefox & disown
+hyprpaper
+nvim hyprland.conf
+exec Hyprland
+firefox & disown
+rustup update stable
+ll -T /boot
+lynx fast.com
+ip a
+/tmp
+v check.sh
+chmod +x check.sh
+./check.sh
+git config --global user.name
+..
+ll
+cd ..
+ll
+ll -T
+cd lua
+ll
+mkdir config
+mv *.lua config
+l
+ll
+pkill check.sh
+nvim check.sh
+nvim check.sh
+nvim check.sh
+./check.sh
+./check.sh
+nvim check.sh
+./check.sh
+nvim check.sh
+./check.sh
+nvim check.sh
+nvim check.sh
+./check.sh
+nvim check.sh
+./check.sh
+nvim check.sh
+./check.sh
+exec Hyprland
+fd -Htf -j5 -e mp3
+sudo systemctl enable --now bluetooth
+reboot
+reboot
+exec Hyprland
+firefox & disown
+rustup update stable
+rustup update stable
+cd dot
+ll
+cd papes
+feh cur.jpg
+cd config
+ll
+cd hypr
+nvim hyprpaper.conf
+nvim hyprpaper.conf
+v hypr
+v hyprpaper.conf
+v hyprpaper.conf
+feh
+ys feh
+nmtui
+yay -Syu --devel --sudoloop --removemake --noconfirm
+yay -Syu --devel --sudoloop --removemake --noconfirm
+nmtui
+ping google.com
+ys ani-cli-git
+ys ani-cli-git
+nmtui
+sudo systemctl restart NetworkManager
+nmtui
+neofetch
+nmtui
+gh extension upgrade gh-copilot
+gh copilot suggest 'how to clone from github using ssh?'
+ys ani-cli-git
+ac kimi no na wa
+ac doraemon
+cd alacritty
+cd config
+cd alacritty
+nvim alacritty.toml
+/tmp
+git clone --depth 1 https://github.com/ibldzn/cpp-template.git
+git clone --depth 1 ssh:github.com@ibldzn/cpp-template.git
+gh
+ys github-cli
+gh copilot
+gh auth login
+gh extension install github/gh-copilot
+git clone git@github.com:ibldzn/cpp-template.got
+git clone git@github.com:ibldzn/cpp-template.git
+cd cpp-template
+ll
+./build
+./_out/cpp_template
+cd _out
+disass cpp_template
+gh copilot explain "what does this command do? git@github.com:ibldzn/cpp-template.git"
+ll
+exec Hyprland
+firefox & disown

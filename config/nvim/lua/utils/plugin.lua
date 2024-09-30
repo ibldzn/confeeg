@@ -23,7 +23,7 @@ function M.lazy_file()
         end
 
         -- Trigger early redraw
-        vim.cmd([[redraw]])
+        vim.cmd("redraw")
       end
     end,
   })

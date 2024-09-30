@@ -39,5 +39,5 @@ export HISTSIZE=1000000
 export SAVEHIST=$HISTSIZE
 
 typeset -U path PATH
-path=(~/.local/bin $path $GOPATH/bin)
+path=(~/.local/bin $path $GOPATH/bin /opt/lampp/bin)
 export PATH

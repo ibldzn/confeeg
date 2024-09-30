@@ -1,4 +1,5 @@
 alacritty                   # a cross-platform, gpu-accelerated terminal emulator
+ani-cli-git                 # a cli to browse and watch anime. (development version)
 aria2                       # download utility that supports http(s), ftp, bittorrent, and metalink
 bat                         # cat clone with syntax highlighting and git integration
 bluez                       # daemons for the bluetooth protocol stack
@@ -12,18 +13,24 @@ docker-compose              # fast, isolated development environments using dock
 extra-cmake-modules         # extra modules and scripts for cmake
 eza                         # a modern replacement for ls (community fork of exa)
 fd                          # simple, fast and user-friendly alternative to find
+feh                         # fast and light imlib2-based image viewer
 fzf                         # command-line fuzzy finder
 git                         # the fast distributed version control system
+git-delta                   # syntax-highlighting pager for git and diff output
+github-cli                  # the github cli
 gnome-keyring               # stores passwords and encryption keys
 go                          # core compiler tools for the go programming language
 grim                        # screenshot utility for wayland
 hyprland                    # a highly customizable dynamic tiling wayland compositor
 hyprpaper                   # a blazing fast wayland wallpaper utility with ipc controls
 jq                          # command-line json processor
+keyd                        # a key remapping daemon for linux
 lazygit                     # simple terminal ui for git commands
 libqalculate                # multi-purpose desktop calculator
 man-db                      # a utility for reading man pages
 man-pages                   # linux man pages
+mpv                         # a free, open source, and cross-platform media player
+neofetch                    # a cli system information tool written in bash that supports displaying images.
 neovim-git                  # fork of vim aiming to improve user experience, plugins, and guis
 nodejs                      # evented i/o for v8 javascript
 noto-fonts                  # google noto ttf fonts
@@ -32,6 +39,7 @@ noto-fonts-emoji            # google noto emoji fonts
 noto-fonts-extra            # google noto ttf fonts - additional variants
 npm                         # javascript package manager
 ntfs-3g                     # ntfs filesystem driver and utilities
+pamixer                     # pulseaudio command-line mixer like amixer
 pavucontrol                 # pulseaudio volume control
 pipewire                    # low-latency audio/video router and processor
 pipewire-alsa               # low-latency audio/video router and processor - alsa configuration

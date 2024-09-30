@@ -1,19 +1,11 @@
 local M = {}
 
-local function error_handler(mod_name)
-  return function(err)
-    local text = "Failed to load module '" .. name .. "':\n" .. (err or "")
-    vim.notify(text, vim.log.levels.ERROR)
-    return err
-  end
-end
-
 local function try_load(module_name)
-  local ok, mod = xpcall(function()
-    return require(module_name)
-  end, error_handler(module_name))
+  local ok, mod = pcall(require, module_name)
 
   if not ok then
+    local text = "Failed to load module '" .. module_name .. "'"
+    vim.notify(text, vim.log.levels.ERROR)
     return
   end
 

@@ -19,19 +19,19 @@ map("i", "<c-h>", "<left>", { desc = "Left" })
 map("i", "<c-j>", "<down>", { desc = "Down" })
 map("i", "<c-k>", "<up>", { desc = "Up" })
 map("i", "<c-l>", "<right>", { desc = "Right" })
-map("i", "<c-a>", "<esc>^i", { desc = "Move to the beginning of current line" })
-map("i", "<c-e>", "<end>", { desc = "Move to the end of current line" })
+map("i", "<c-a>", "<home>", { desc = "Move to The Beginning of Current Line" })
+map("i", "<c-e>", "<end>", { desc = "Move to The End of Current Line" })
 
 -- register stuff insert mode
-map("i", "<c-r>", "<c-r><c-o>", { desc = 'Insert register "literally"' })
-map("i", "<c-v>", "<c-r><c-o>+", { desc = "Paste system clipboard" })
+map("i", "<c-r>", "<c-r><c-o>", { desc = "Insert Register Literally" })
+map("i", "<c-v>", "<c-r><c-o>+", { desc = "Paste System Clipboard" })
 
 -- save
-map("n", "<c-s>", "<cmd>w<cr>", { desc = "Save file" })
-map("i", "<c-s>", "<esc><cmd>w<cr>a", { desc = "Save file" })
+map("n", "<c-s>", "<cmd>w<cr>", { desc = "Save File" })
+map("i", "<c-s>", "<esc><cmd>w<cr>a", { desc = "Save File" })
 
 -- other
-map("n", "<esc>", "<cmd>nohlsearch<cr>", { desc = "Clear search highlights" })
+map("n", "<esc>", "<cmd>nohlsearch<cr>", { desc = "Clear Search Highlights" })
 
 -- https://github.com/mhinz/vim-galore#saner-behavior-of-n-and-n
 map("n", "n", "'Nn'[v:searchforward].'zv'", { expr = true, desc = "Next Search Result" })
@@ -73,13 +73,13 @@ map("n", "<leader><tab>f", "<cmd>tabfirst<cr>", { desc = "First Tab" })
 map("n", "<leader><tab>l", "<cmd>tablast<cr>", { desc = "Last Tab" })
 
 -- windows
-map("n", "<leader>ww", "<C-W>p", { desc = "Other Window", remap = true })
-map("n", "<leader>wc", "<C-W>c", { desc = "Delete Window", remap = true })
-map("n", "<leader>b-", "<C-W>s", { desc = "Split Window Below", remap = true })
-map("n", "<leader>b|", "<C-W>v", { desc = "Split Window Right", remap = true })
+map("n", "<leader>ww", "<c-w>p", { desc = "Other Window", remap = true })
+map("n", "<leader>wc", "<c-w>c", { desc = "Delete Window", remap = true })
+map("n", "<leader>w-", "<c-w>s", { desc = "Split Window Below", remap = true })
+map("n", "<leader>w|", "<c-w>v", { desc = "Split Window Right", remap = true })
 
 -- buffers
-map("n", "<leader><space>", "<C-^>", { desc = "Alternate buffer" })
+map("n", "<leader><space>", "<c-^>", { desc = "Alternate buffer" })
 map("n", "[b", "<cmd>bprevious<cr>", { desc = "Prev Buffer" })
 map("n", "]b", "<cmd>bnext<cr>", { desc = "Next Buffer" })
 

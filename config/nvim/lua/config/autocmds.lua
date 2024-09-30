@@ -143,7 +143,7 @@ vim.api.nvim_create_autocmd("TermOpen", {
 
 -- two space indent
 vim.api.nvim_create_autocmd("FileType", {
-  group = augroup("IndentTwoSpaces"),
+  group = augroup("indent_two_spaces"),
   pattern = {
     "cmake",
     "css",
@@ -177,5 +177,30 @@ vim.api.nvim_create_autocmd("FileType", {
   pattern = { "go", "gitconfig" },
   callback = function()
     vim.opt_local.expandtab = false
+  end,
+})
+
+vim.filetype.add({
+  pattern = {
+    [".*"] = {
+      function(path, buf)
+        return vim.bo[buf]
+            and vim.bo[buf].filetype ~= "bigfile"
+            and path
+            and vim.fn.getfsize(path) > vim.g.bigfile_size
+            and "bigfile"
+          or nil
+      end,
+    },
+  },
+})
+
+vim.api.nvim_create_autocmd({ "FileType" }, {
+  group = augroup("bigfile"),
+  pattern = "bigfile",
+  callback = function(ev)
+    vim.schedule(function()
+      vim.bo[ev.buf].syntax = vim.filetype.match({ buf = ev.buf }) or ""
+    end)
   end,
 })

@@ -627,3 +627,671 @@ gh copilot explain "what does this command do? git@github.com:ibldzn/cpp-templat
 ll
 exec Hyprland
 firefox & disown
+vg
+gh copilot suggest 'how to use xpcall in lua?'
+gh copilot explain 'how to use xpcall in lua?'
+gh copilot explain 'how to use xpcall in lua?'
+gh copilot explain "does this snippet of code does what I think it does? $(wl-paste)"
+gh copilot explain "does this snippet of code does what I think it does? $(wl-paste)"
+exec Hyprland
+nmtui
+exec Hyprland
+vf
+vg
+vf
+vf
+vf
+firefox & disown
+vg
+/tmp
+gcl https://github.com/saecki/dotfiles
+cd dotfiles
+ll
+cd .config/nvim
+ll
+v
+v
+v
+v
+v
+v
+vf
+cd nvim
+vf
+vf
+vf
+cd /tmp/LazyVim || git clone --depth 1 https://github.com/LazyVim/LazyVim.git /tmp/LazyVim && cd /tmp/LazyVim
+ll
+vf
+vg
+vg
+vf
+cd nvim
+l
+ll
+tmux a
+tmuxhere
+reboot
+exec Hyprland
+reboot
+exec Hyprland
+cd zsh
+cd dot/config/zsh
+ll
+bat .history
+ll
+.. 2
+tmuxhere
+hyprctl monitors all
+hyprctl monitors
+run-help hyprctl
+run-help hyprctl
+hyprctl monitors --help
+xrandr
+hyprctl monitors --help
+hyprctl monitors all
+firefox & disown
+tmux a
+cd /tmp/LazyVim || git clone --depth 1 https://github.com/LazyVim/LazyVim.git /tmp/LazyVim && cd /tmp/LazyVim
+ll
+vf
+vg
+vg
+vg
+cd olddot
+cd config/
+cd zsh
+ll
+bat .zprofile
+cp .zprofile ~/dot/config/zsh
+hyprctl monitors all
+cd nvim
+vf
+v
+ping google.com
+ping google.com
+nmtui
+ping google.com
+sudo systemctl restart NetworkManager
+lua --version
+lua -v
+ping google.com
+v
+v main.cpp
+v
+v
+/tmp
+v main.js
+v
+v main.cpp
+v main.cpp
+v main.cpp
+v
+v main.cpp
+v
+v
+v main.cpp
+v main.cpp
+v main.jsx
+touch main.jsx
+v main.jsx
+v main.jsx
+v
+v main.cpp
+v main.cpp
+v main.jsx
+v
+v
+ll
+cd config/zsh
+ll
+nvim .zprofile
+hyprctl monitors all
+cd hypr
+v hyprland.conf
+cd olddot
+vf
+cd config/nvim
+ll
+vf
+hyprctl monitors all
+tmux a
+reboot
+hyprctl monitors all
+tmux a
+cd nvim
+tmuxhere
+tmuxhere
+.. 2
+tmuxhere
+php
+yss xampp
+yay -Syu --devel --sudoloop --removemake --noconfirm
+reboot
+cd test
+ll
+bat test.txt
+sudo systemctl restart NetworkManager
+gh copilot explain "how to access cli arguments in python?"
+gh copilot explain "how to access cli arguments in python?"
+gh copilot explain "how to access cli arguments in python?"
+gh copilot explain "how to access cli arguments in python?"
+gh copilot explain "how to access cli arguments in python?"
+gh copilot explain "how to access cli arguments in python?"
+gh copilot explain "how to access cli arguments in python?"
+gh copilot explain "how to access cli arguments in python?"
+gh copilot explain "how to access cli arguments in python?"
+gh copilot explain "how to access cli arguments in python?"
+gh copilot explain "how to access cli arguments in python?"
+gh copilot explain "how to access cli arguments in python?"
+gh copilot explain "how to access cli arguments in python?"
+gh copilot explain "how to access cli arguments in python?"
+ping google.com
+nmtui
+ping google.com
+gh copilot explain "how to access cli arguments in python?"
+sudo systemctl restart NetworkManager
+junk
+ping google.com
+nmtui
+ping google.com
+gh copilot explain "how to access cli arguments in python?"
+pacman -Ss polkit
+ys polkit-kde-agent
+ping google.com
+nmtui
+ping google.com
+sudo ping google.com[A
+ping google.com
+stylua
+ys stylua
+stylua --help
+cat /sys/class/power_supply/BAT1/capacity
+/tmp
+v main.py
+chmod +x main.py
+./main.py
+v main.py
+./main.py
+./main.py
+./main.py
+v main.py
+v main.py
+py
+v
+gh copilot explain "how to remove all trailing whitespaces in vim?"
+yqi slang
+.. 2
+lzg
+delta <(pacman -Qq) pkgs
+v pkgs
+delta <(pacman -Qq) pkgs
+v pkgs
+delta <(pacman -Qq) pkgs
+gh copilot explain "how to use f string to only use n number of decimals?"
+cd dot
+ys php xampp
+tmuxhere
+tmux a
+groups
+clang++ -O3 -std=c++20 main.cpp
+./build --rel
+./_out/cpp_template
+./_out/cpp_template
+./_out/cpp_template
+./build --rel && ./_out/cpp_template
+./build --rel && ./_out/cpp_template
+./build --rel && ./_out/cpp_template
+./build --rel && ./_out/cpp_template
+ping google.com
+nmtui
+sudo systemctl restart NetworkManager\
+
+nmtui
+groups
+groupadd --help
+gh copilot explain "how to add linux user to a certain group?"
+sudo usermod -aG docker cangs
+/tmp
+v main.py
+ping google.com
+groups
+v 
+yay -Syu --devel --sudoloop --removemake --noconfirm
+cat /sys/class/power_supply/BAT1/capacity
+firefox & disown
+nmtui
+sudo systemctl restart NetworkManager\
+
+nmtui
+nmtui
+sudo systemctl restart NetworkManager\
+
+nmtui
+nmtui
+sudo systemctl restart NetworkManager\
+
+nmtui
+sudo systemctl restart NetworkManager\
+
+nmtui
+nmtui
+reboot
+nmtui
+sudo systemctl restart NetworkManager
+nmtui
+nmtui
+firefox & disown
+yarn add qrcode-terminal
+ll
+yarn add @types/qrcode-terminal
+yarn add -D ts-node
+vf
+ping google.com
+nmtui
+cd nvim
+ll
+vf
+vf
+vf
+vf
+cd -
+yarn dev
+yarn ts-node src/index.ts
+yarn remove ts-node
+yarn add -D tsx
+yarn dev
+yss chrome
+ys google-chrome
+which google-chrome-stable
+yarn dev
+node
+yarn dev
+nmtui
+nmtui
+yarn dev
+yarn dev
+yarn dev
+yarn dev
+yarn dev
+yarn dev
+yarn dev
+yarn dev
+cd /tmp/LazyVim || git clone --depth 1 https://github.com/LazyVim/LazyVim.git /tmp/LazyVim && cd /tmp/LazyVim
+vf
+gh copilot explain "how do i mark functions in typescript interface to be optional?"
+cat /sys/class/power_supply/BAT1/capacity
+nmtui
+brightnessctl set 80%
+brightnessctl set 100%
+cat /sys/class/power_supply/BAT1/capacity
+yarn add -D typescript @types/node @types/whatsapp-web.js
+yarn add -D typescript @types/node
+ll
+yarn add whatsapp-web.js
+ll
+mkdir src
+v
+v
+vf
+vf
+vf
+sudo vf
+ll
+vf
+brightnessctl set 30%
+ac kimetsu no yaiba
+cat /sys/class/power_supply/BAT1/capacity
+brightnessctl set 90%
+vf
+cd olddot
+vg
+cd config/nvim
+vg
+/tmp
+mkcd foo
+yarn init -y
+yarn add g4f
+v index.js
+node in
+node index.js
+v index.js
+node index.js
+node index.js
+v index.js
+node index.js
+ll
+feh image.jpg
+bat image.jpg
+v index.js
+node index.js
+v index.js
+node index.js
+node index.js
+node index.js
+v index.js
+node index.js
+node index.js
+node index.js
+ping google.com
+node index.js
+v index.js
+node index.js
+node index.js
+ll
+sudo systemctl restart NetworkManager
+nmtui
+nmtui
+docker run --name oracle10g -d -p 49160:22 -p 1521:1521 -p 49162:8080  --mount source=oracle_xe_10g_vol,target=/usr/lib/oracle -e ORACLE_ALLOW_REMOTE=true --restart=no dragonbest520/oracle-xe-10g
+lzd
+ys lazydocker
+lzd
+sudo lsof -i -P -n | grep LISTEN
+ssh root@localhost -p 49160~
+ssh root@localhost -p 49160
+cat /sys/class/power_supply/BAT1/capacity
+nmtui
+nmtui
+nmtui
+nmtui
+nmtui
+sudo systemctl restart NetworkManager
+nmtui
+gh copilot explain "how to make this orace sql query better? SELECT\
+  CONCAT(first_name, CONCAT(' ', last_name)) AS full_name,\
+  LENGTH(CONCAT(first_name, CONCAT(' ', last_name))) AS name_length\
+FROM\
+  employees;"
+gh copilot explain "how to make this orace sql query better by only having to concat the first name and the last name once? SELECT\
+  CONCAT(first_name, CONCAT(' ', last_name)) AS full_name,\
+  LENGTH(CONCAT(first_name, CONCAT(' ', last_name))) AS name_length\
+FROM\
+  employees;"
+nmtui
+ping google.com
+gh copilot explain "how to limit the search result from select statement in sql?"
+gh copilot explain "how to implement paging in sql search (select)?\
+"
+gh copilot explain "how to implement paging using \"cursor\""?
+gh copilot explain "how to implement paging using \"cursor\"?"
+gh copilot explain "$(wl-paste)"
+cat /sys/class/power_supply/BAT1/capacity
+tmux 
+cd nvim
+cat /sys/class/power_supply/BAT1/capacity
+/t	
+cd
+cd Projects
+ll
+yarn init
+ll
+v package.json
+ll
+mkdir WA-Bot
+mv package.json WA-Bot
+cd WA-Bot
+tmuxhere
+reboot
+npx prisma db push
+npx prisma db --help
+npx prisma db push
+npx prisma db
+npx prisma db pull
+npx prisma db generate
+npx prisma generate
+yarn add bcrypt
+yarn add -D @types/bcrypt
+npx prisma generate
+npx prisma db push
+npx prisma generate
+nmtui
+firefox & disown
+yarn dev
+yarn dev
+yarn dev
+yarn dev
+yarn dev
+yarn dev
+sudo yarn dev[A
+yarn dev
+nmtui
+curl 'https://mahasiswa.univbanisaleh.my.id/Jadwal/tambah_aksi' --compressed -X POST -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0' -H 'Accept: */*' -H 'Accept-Language: en-US,en;q=0.5' -H 'Accept-Encoding: gzip, deflate, br, zstd' -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' -H 'X-Requested-With: XMLHttpRequest' -H 'Origin: https://mahasiswa.univbanisaleh.my.id' -H 'DNT: 1' -H 'Sec-GPC: 1' -H 'Alt-Used: mahasiswa.univbanisaleh.my.id' -H 'Connection: keep-alive' -H 'Referer: https://mahasiswa.univbanisaleh.my.id/Jadwal' -H 'Cookie: ci_session=35h44e71lgvku6butobnlmo223b6nk45; cf_clearance=_UBoAwaRwo7nEp5LoNFJDXKfR2tnUVCIOqHM6I1I6Ok-1727353196-1.2.1.1-QbTI9U6GeDRhMxwTKa4X8dZPzNIBk.QHwjXdYbu99acqTnnpVnLKiNQB_AQwBlEf8AWasFw.yDpZRWSyNIHC1lyuhClk7kRP8Sufmr4VdGs83X1fHGTkMBkEZ.TLnosUpMnAxirDqjsvgJM4rA9uQbeJ7Yam5ZTa0Gzkf7XOhWOEHSjbkDKQ0tGS8HUtBwLTUGRUTRJyaQeUes05BHJe5HEbxw0uq6xjy151P88EbQbz2M7SdbLgmdmS64INxyQzy9oXmHjQjJDniKFuGgDzw17o3TwpuGcSkVPM22jA5V0O_rcCn3gQWZZQYZji7TAmgbsyb3N2AVkYPt8GV5BpkA' -H 'Sec-Fetch-Dest: empty' -H 'Sec-Fetch-Mode: cors' -H 'Sec-Fetch-Site: same-origin' -H 'Priority: u=0' -H 'TE: trailers' --data-raw 'npm=43A87006220028&jadwal=13807&ih=167707'
+curl 'https://mahasiswa.univbanisaleh.my.id/Jadwal/tambah_aksi' --compressed -X POST -H 'User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:130.0) Gecko/20100101 Firefox/130.0' -H 'Accept: */*' -H 'Accept-Language: en-US,en;q=0.5' -H 'Accept-Encoding: gzip, deflate, br, zstd' -H 'Content-Type: application/x-www-form-urlencoded; charset=UTF-8' -H 'X-Requested-With: XMLHttpRequest' -H 'Origin: https://mahasiswa.univbanisaleh.my.id' -H 'DNT: 1' -H 'Sec-GPC: 1' -H 'Alt-Used: mahasiswa.univbanisaleh.my.id' -H 'Connection: keep-alive' -H 'Referer: https://mahasiswa.univbanisaleh.my.id/Jadwal' -H 'Cookie: ci_session=35h44e71lgvku6butobnlmo223b6nk45; cf_clearance=_UBoAwaRwo7nEp5LoNFJDXKfR2tnUVCIOqHM6I1I6Ok-1727353196-1.2.1.1-QbTI9U6GeDRhMxwTKa4X8dZPzNIBk.QHwjXdYbu99acqTnnpVnLKiNQB_AQwBlEf8AWasFw.yDpZRWSyNIHC1lyuhClk7kRP8Sufmr4VdGs83X1fHGTkMBkEZ.TLnosUpMnAxirDqjsvgJM4rA9uQbeJ7Yam5ZTa0Gzkf7XOhWOEHSjbkDKQ0tGS8HUtBwLTUGRUTRJyaQeUes05BHJe5HEbxw0uq6xjy151P88EbQbz2M7SdbLgmdmS64INxyQzy9oXmHjQjJDniKFuGgDzw17o3TwpuGcSkVPM22jA5V0O_rcCn3gQWZZQYZji7TAmgbsyb3N2AVkYPt8GV5BpkA' -H 'Sec-Fetch-Dest: empty' -H 'Sec-Fetch-Mode: cors' -H 'Sec-Fetch-Site: same-origin' -H 'Priority: u=0' -H 'TE: trailers' --data-raw 'npm=43A87006220028&jadwal=13807&ih=16708'
+nmtui
+curl 'https://mahasiswa.univbanisaleh.my.id'
+/tmp
+mv ~/Downloads/Aplikasi.rar .
+ext Aplikasi.rar
+ys unrar
+ext Aplikasi.rar
+cd Aplikasi
+ll
+v
+ll
+v .env
+..
+git clone git@github.com:ibldzn/wml-app.git
+git clone git@github.com:ibldzn/wml
+cd wml
+vf
+vf
+npx prisma generate
+npx prisma generate
+npx prisma db pull
+npx prisma generate
+tmux a
+cd nvim
+cd
+cd WA-Bot
+ll
+tmuxhere
+v
+/tmp
+cd
+cd Projects
+ll
+ll
+yarn create t3-app
+cd siakad
+ll
+bat start-database.sh
+./start-database.sh
+./start-database.sh
+lzd
+yay -S lazysql
+junk
+yeet $(junk)
+ll
+lazysql
+lazysql
+ll
+v
+vf
+reboot
+vf
+watch sensors
+sensors
+run-help watch
+watch sh -c 'cat /proc/meminfo | grep Dirty'
+watch cat /proc/meminfo | grep Dirty
+watch grep Dirty /proc/meminfo
+watch watch 
+watch watch 
+watch -q 3 watch
+node
+yarn node-ts
+/tmp
+gcl https://github.com/NvChad/NvChad
+cd NvChad
+vf
+vg
+v
+vf
+vf
+vf
+v
+vf
+vf
+v
+vf
+vf
+v
+vg
+v
+v
+v
+v
+vf
+vf
+v
+vf
+vf
+vf
+vf
+vf
+vf
+vf
+vf
+vf
+gh copilot explain "how to create a new empty buffer in neovim?"
+nmtui
+gh copilot explain "how to create a new empty buffer in neovim?"
+nmtui
+cat /sys/class/power_supply/BAT1/capacity
+cd olddot
+vf
+cd bin
+ll
+./flagpac
+./truecolor
+./color
+./color cang
+./bebasid
+../config/nvim
+ll
+vf
+vf
+sudo /opt/lampp/xampp start
+../2
+../Pertemuan-1
+ll
+v form.php
+/tmp
+v main.py
+v main.cpp
+/tmp
+v main.cpp
+v main.cpp
+v index.html
+cd ../Pertemuan-1
+l
+v form.php
+cd nvim
+tmuxhere
+/tmp
+v main.cpp
+v main.js
+nmtui
+cd
+wl-paste | tee jadwal.html
+brightnessctl set 20%
+ll
+wl-copy < jadwal.html
+yss shortcutor
+nmtui
+yss shortcutor
+sudo systemctl restart NetworkManager
+nmtui
+yss shortcutor
+ys shortcutor
+gh copilot explain "how to run appimage file?"
+cd /tmp
+cp ~/Downloads/Shortcutor-2021.1.4.AppImage .
+chmod +x Shortcutor-2021.1.4.AppImage
+./Shortcutor-2021.1.4.AppImage
+./Shortcutor-2021.1.4.AppImage
+./Shortcutor-2021.1.4.AppImage
+ping google.com
+f
+vf
+cat /sys/class/power_supply/BAT1/capacity
+yarn add zod
+sudo /opt/lampp/xampp start
+gh copilot explain "in zod, can I map string like '[1, 2, 3]' to an array?"
+gh copilot explain "in zod typescript, can I map string like '[1, 2, 3]' to an array?"
+cd nvim
+v
+git clone git@github.com:ibldzn/express-ts
+ll
+mv express-ts backend
+ll
+yarn create next-app
+cd frontend
+ll
+vf
+vf
+vf
+vf
+vf
+vf
+vf
+vf
+vf
+vf
+vf
+vf
+vf
+v
+vf
+vf
+vf
+vf
+cd backend
+yarn upgrade
+ll
+lzg
+vf
+vf
+curl localhost:8080
+curl -X POST localhost:8080
+go build -ldflags='-s -w' -trimpath -v
+ll
+./foo
+cd olddot
+cd config/nvim
+vf
+cd /tmp/LazyVim || git clone --depth 1 https://github.com/LazyVim/LazyVim.git /tmp/LazyVim && cd /tmp/LazyVim
+vf
+cd olddot
+vf
+f
+vf
+cd WA-Bot
+vf
+vf
+vf
+nmtui
+/tmp
+mkcd foo
+go mod init
+go-init
+ll
+touch main.go
+v main.go
+v main.go
+cargo add anyhow
+sudo /opt/lampp/xampp start
+cargo
+rustc
+nmtui
+sudo systemctl restart NetworkManager
+nmtui
+v db.sql
+v
+mysql
+ll
+PATH="/home/cangs/.local/bin:/usr/local/sbin:/usr/local/bin:/usr/bin:/home/cangs/.local/share/go/bin:/usr/bin/site_perl:/usr/bin/vendor_perl:/usr/bin/core_perl:/usr/lib/rustup/bin:/opt/lampp/xampp" v
+/opt/lampp
+ll
+PATH="/opt/lampp/bin:$PATH" v
+rced
